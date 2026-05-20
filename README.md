@@ -17,6 +17,11 @@ The project involves a complete ETL (Extract, Transform, Load) process using Pow
 
 ## 🚀 Getting Started
 
+### Online Dashboard Access
+
+View the interactive dashboard online without downloading PowerBI Desktop:
+**[View Online Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjIwOWFhZmItNjExOS00OTVkLTk0MjUtZmZkZDk0ODNmYjlmIiwidCI6IjVhZGIyZTRjLTcxYWQtNDMxYS04MWZhLWQ0OGRhNmZlNmI0MCJ9)**
+
 ### Prerequisites
 - Microsoft PowerBI Desktop (free version available for download)
 - Microsoft Excel (for viewing the raw data)
